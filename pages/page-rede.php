@@ -33,9 +33,9 @@ $community_types = array(
     'aliases' => array('Audiodescritor', 'Audiodescritores'),
   ),
   'tradutores-braille' => array(
-    'label' => 'Tradutores de Braille',
+    'label' => 'Transcritores de Braille',
     'icon' => 'fa-solid fa-braille',
-    'aliases' => array('Tradutor de Braille', 'Tradutores de Braille'),
+    'aliases' => array('Tradutor de Braille', 'Transcritores de Braille'),
   ),
 );
 

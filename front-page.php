@@ -192,7 +192,7 @@ $total_collaborations = $count_post + $count_event + $count_profile;
         array('title' => 'Empresas e ONGs', 'desc' => 'Organizações comprometidas com acessibilidade.', 'icon_class' => 'fa-solid fa-building', 'tipo' => 'Empresas e ONGs'),
         array('title' => 'Intérpretes de Libras', 'desc' => 'Profissionais de comunicação em língua de sinais.', 'icon_class' => 'fa-solid fa-hand', 'tipo' => 'Interpretes de Libras'),
         array('title' => 'Audiodescritores', 'desc' => 'Especialistas em descrição de conteúdo visual.', 'icon_class' => 'fa-solid fa-eye', 'tipo' => 'Audiodescritores'),
-        array('title' => 'Tradutores de Braille', 'desc' => 'Profissionais especializados em escrita tátil.', 'icon_class' => 'fa-solid fa-braille', 'tipo' => 'Tradutores de Braille'),
+        array('title' => 'Transcritores de Braille', 'desc' => 'Profissionais especializados em escrita tátil.', 'icon_class' => 'fa-solid fa-braille', 'tipo' => 'Transcritores de Braille'),
       );
 
       $community_aliases = array(
@@ -201,7 +201,7 @@ $total_collaborations = $count_post + $count_event + $count_profile;
         'Empresas e ONGs' => array('Empresa ou ONG', 'Empresas e ONGs'),
         'Interpretes de Libras' => array('Intérprete de Libras', 'Interprete de Libras', 'Intérpretes de Libras'),
         'Audiodescritores' => array('Audiodescritor', 'Audiodescritores'),
-        'Tradutores de Braille' => array('Tradutor de Braille', 'Tradutores de Braille'),
+        'Transcritores de Braille' => array('Tradutor de Braille', 'Transcritores de Braille'),
       );
 
       $community_counts = array();
